@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 <pyqgis_plugin name="Layer Metrics" version="1.0.0">
-<description>Analizador geométrico que genera reportes de extensión,
-áreas y longitudes en tiempo real.</description>
-<about>Desarrollado como entregable del proyecto final de
-Programación en Ambientes de Información Geográfica.</about>
+<description>Analizador geométrico que genera reportes de extensión,áreas y longitudes en tiempo real.</description>
+<about>Desarrollado como entregable del proyecto final de Programación en Ambientes de Información Geográfica.</about>
 <version>1.0.0</version>
 <qgis_minimum_version>3.0</qgis_minimum_version>
 
-<homepage>https://github.com/valesali33-hub/mis-plugins-
-qgis</homepage>
+<homepage>https://github.com/valesali33-hub/mis-plugins-qgis</homepage>
 
 <file_name>layer_metrics.zip</file_name>
 
-<download_url>https://raw.githubusercontent.com/valesali33-hub/mis-
-plugins-qgis/main/layer_metrics.zip</download_url>
+<download_url>https://raw.githubusercontent.com/valesali33-hub/mis-plugins-qgis/main/layer_metrics.zip</download_url>
 
 <author_name>Valeria Salinas Haros</author_name>
 <experimental>False</experimental>
